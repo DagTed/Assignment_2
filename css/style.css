@@ -1,0 +1,26 @@
+body{
+    font-family: 'Source Serif Pro', serif;
+    background-image: url(../images/bg_12.jpg);
+    background-position: center center;
+
+    background-repeat: no-repeat;
+
+   
+    background-attachment: fixed;
+
+    
+    background-size: cover;
+    background-color: #02A4B3;
+}
+.main-content_1{
+    height: 100vh;
+    width: 100%;
+    background-image: url(../images/bg_9.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-weight: 1000;
+}
+.main-content_2{
+    height:800px;
+    width: 100%;
+}
